@@ -4,7 +4,7 @@
 
 ### Key points
 *   Beginner frontend developer
-*   Skillbox student
+*   Skillbox student. 94% complete
 *   Currently working in mechanical engineering
 
 ## 🛠 Skills
