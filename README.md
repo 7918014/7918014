@@ -5,7 +5,7 @@
 ### Key points
 *   Beginner frontend developer
 *   Skillbox student. 94% complete
-*   Currently working in mechanical engineering
+*   Currently working in mechanical engineering. Ekaterinburg
 
 ## 🛠 Skills
 *   HTML/CSS/Javascript/Vue.js/
