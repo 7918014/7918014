@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Vlad👋
+### I'm learning frontend
+
 
 <!--
 **7918014/7918014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
