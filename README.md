@@ -14,6 +14,7 @@
 ### My opensource projects
 
 *   [Технозавррр](https://7918014.github.io/vue-app/#/) - vue.js tutorial project
+*   [ Магазин белья Moire]https://7918014.github.io/moire_shop/#/
 
 
 
