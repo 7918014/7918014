@@ -15,10 +15,10 @@
 
 *   [Технозавррр](https://7918014.github.io/vue-app/#/) - vue.js tutorial project
 *   [ Магазин белья Moire](https://7918014.github.io/moire_shop/#/) - vue.js tutorial project
-*   [ Lionic Учебный проект сайта](https://7918014.github.io/lionic_start/#/) - html tutorial project
-*   [ Course 3D Учебный проект сайта](https://7918014.github.io/Course_3D/#/) - html tutorial project
-*   [ Lagoona Учебный проект сайта](https://7918014.github.io/Lagoona/#/) - html tutorial project
-*   [ Evklid Учебный проект сайта](https://7918014.github.io/Evklid/#/) - html tutorial project
+*   [ Lionic ](https://7918014.github.io/lionic_start/#/) - html tutorial project
+*   [ Course 3D ](https://7918014.github.io/Course_3D/#/) - html tutorial project
+*   [ Lagoona ](https://7918014.github.io/Lagoona/#/) - html tutorial project
+*   [ Evklid ](https://7918014.github.io/Evklid/#/) - html tutorial project
 
 
 
