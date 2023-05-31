@@ -12,7 +12,7 @@
 *   GitHub/GitLab/
 
 ### My opensource projects
-
+*   [Slider](https://codepen.io/ViewMaster/pen/vYVwyqd)
 *   [Технозавррр](https://7918014.github.io/vue-app/#/) - vue.js tutorial project
 *   [ Магазин белья Moire](https://7918014.github.io/moire_shop/#/) - vue.js tutorial project
 *   [ Lionic ](https://7918014.github.io/lionic_start/#/) - html tutorial project
